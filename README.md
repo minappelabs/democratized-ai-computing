@@ -1,1 +1,0 @@
-# democratized-ai-computing
