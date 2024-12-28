@@ -117,7 +117,7 @@ The marketplace operates as a decentralized platform comprising three main parti
 ### 4.2 Cryptocurrency Integration  
 - **Microtransactions**: Supports affordable payments for small-scale tasks.  
 - **Cross-Border Payments**: Cryptocurrencies like BSV enable global accessibility.  
-- **Custom Agreements**: Users and miners can establish private terms for specific tasks.  
+- **Custom Agreements**: Users and miners can establish private terms for specific tasks. 
 
 ---
 
@@ -126,8 +126,11 @@ The marketplace operates as a decentralized platform comprising three main parti
 1. Nakamoto, Satoshi. *Bitcoin: A Peer-to-Peer Electronic Cash System*. (2008). Available at: [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf).  
 2. Bitcoin SV Academy. *Bitcoin SV: The Blockchain for Enterprise and Microtransactions*. Available at: [https://bitcoinsv.academy](https://bitcoinsv.academy).  
 3. Buterin, Vitalik. *Ethereum Whitepaper*. (2013). Available at: [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/).  
+4. Usama, Muhammad, et al. *Decentralized AI Agents: A New Paradigm for Distributed Machine Learning*. (2020). Available at: [https://arxiv.org/abs/2002.01404](https://arxiv.org/abs/2002.01404).  
+5. Zhang, Shuang, et al. *Blockchain-Based Decentralized Machine Learning: A Survey*, IEEE Access. (2021). Available at: [https://ieeexplore.ieee.org/document/9428427](https://ieeexplore.ieee.org/document/9428427).  
+6. Usama, Muhammad, et al. *Decentralized Artificial Intelligence and Blockchain Technology: Challenges, Applications, and Future Directions*. (2021). Available at: [https://arxiv.org/abs/2102.03995](https://arxiv.org/abs/2102.03995).
 
----
+---  
 
 ## 6. Seeking Feedback  
 
